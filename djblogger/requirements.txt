@@ -1,6 +1,6 @@
 asgiref==3.8.1
 colorama==0.4.6
-django==5.1
+django==5.1.1
 factory-boy==3.3.1
 faker==28.1.0
 iniconfig==2.0.0
